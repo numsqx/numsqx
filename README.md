@@ -1,6 +1,6 @@
 Hi!
 
-I'm numsqx, the new maintainer of [@vytdev][vytdev]\'s
+I'm NsQx (numsqx), the new maintainer of [@vytdev][vytdev]\'s
 [debug stick][debug-stick] project.
 
 It's still me, Vincent Yanzee J. Tan (VYT)! I switched accounts to start fresh
