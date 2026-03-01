@@ -2,9 +2,9 @@ Hi!
 
 I'm NsQx (numsqx), previously VYT (vytdev).
 
-Here's my public PGP key: [6C6D9C3B4D2B5726][pubkey] (future use?)
+PGP: [6C6D9C3B4D2B5726][pubkey]
 
-I decided to start fresh with a new handle, for peace of mind.
+I decided to start fresh with a new handle to make stuff <F11>clean.
 
 ![Profile Visits][pf-views]
 
