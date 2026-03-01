@@ -4,7 +4,7 @@ I'm NsQx (numsqx), previously VYT (vytdev).
 
 PGP: [6C6D9C3B4D2B5726][pubkey]
 
-I decided to start fresh with a new handle to make stuff <F11>clean.
+I decided to start fresh with a new handle to make stuff clean.
 
 ![Profile Visits][pf-views]
 
